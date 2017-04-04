@@ -1,0 +1,7 @@
+/*admin*/
+.cMain_right{
+	display: none;
+}
+.cMain_right_active{
+	display: block;
+}

@@ -1,5 +1,5 @@
 body{
-	background-color: #F5F5F5;
+/*	background-color: #F5F5F5;*/
 	font-size: 16px;
     line-height: 1.6em;
     font-weight: 400;
@@ -123,4 +123,34 @@ element.style {
 .cFooter li a:hover,.cFooter li a:active{
 	text-decoration: none;
 	color: #985F0D;
+} 
+/*==========查询页面css=============================*/
+
+.cHeader{
+	margin-top: 55px;
+	
+}
+.cHeader img{
+	width: 100%;
+	max-height: 200px;	
+
+}
+.cHeader h2{
+	padding-top: 160px;
+	padding-left: 20px;
+	color: red;
+	font-family: "微软雅黑";
+}
+.mLine{
+	border-top: 1px solid #000 ;
+}
+ .cInquire_left_fill{
+ 	height: 200px;
+ }
+.cInquire_right{
+	border: 1px solid #d9edf7;
+	height: 353px;
+}
+.cInquire_left .pager{
+	height: 400px;
 } 
